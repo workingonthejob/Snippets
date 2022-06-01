@@ -6,4 +6,4 @@ A small working snippet of something that I can use in other projects to help no
 
 ## Requirements
 ---
-- []: Foo
+- [ ]: Foo
